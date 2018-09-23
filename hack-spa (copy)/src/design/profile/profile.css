@@ -1,0 +1,32 @@
+.profile-intro {
+	width: 100%;	
+	height: 300px;
+	background-color: red;	
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profile-img {
+  border-radius: 50%;		
+	height: 120px;
+	width: 120px;
+	object-fit: cover;
+}
+
+.fromtop {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.locatario {
+	color: #fff;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-size: 22px;
+}
+
+.profile-cidade {
+	color: #fff;
+}

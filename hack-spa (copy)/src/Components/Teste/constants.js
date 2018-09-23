@@ -1,0 +1,1 @@
+export const GET_MARKETS= 'teste/GET_MARKETS';

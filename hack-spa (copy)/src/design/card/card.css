@@ -1,0 +1,19 @@
+.app-card {
+  min-height: 300px; 
+  max-height: 300px; 
+	border: 1px solid #ededed;
+	border-radius: 5px;
+}
+
+.app-card__img {
+	width: 100%;
+	object-fit: cover;
+	height: 200px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.card-title {
+	text-align: left;
+	padding: 20px;
+}

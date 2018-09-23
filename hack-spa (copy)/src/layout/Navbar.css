@@ -1,0 +1,12 @@
+.white {
+    color: white;
+    text-decoration: none;
+}
+
+.chamado-navbar {
+  background-color: #311d8e;
+}
+
+.nav-link {
+  color: #fff !important;
+}

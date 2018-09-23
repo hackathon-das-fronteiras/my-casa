@@ -1,0 +1,58 @@
+.intro {
+  width: 100%;
+	height: 100vh;
+	background-image: url('./bg.jpg');
+	background-position: center;
+	background-size: cover;
+  display: flex;
+	align-items: center;
+	align-self: center;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.bg-light {
+	background: #361e8f !important;
+}
+
+.main-input {
+  width: 60%;	
+	border-radius: 20px;
+	height: 50px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	border: none;
+}
+
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+}
+
+.search-button {
+	border: none;
+	width: 200px;
+	padding: 10px;
+	border-radius: 20px;
+	cursor: pointer;
+	background: #371e90;
+	color: #fff;
+	margin-bottom: 80px;
+}
+
+.main-logo {
+	width: 300px;	
+	padding-bottom: 50px;
+}

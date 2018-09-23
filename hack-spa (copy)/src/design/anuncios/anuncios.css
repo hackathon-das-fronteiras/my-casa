@@ -1,0 +1,17 @@
+.anuncio-bar {
+	height: 80px;
+	width: 100%;
+	text-align: center;
+	background: #401f91;
+	color: #fff;
+}
+
+.anuncio-bar p {
+	padding-top: 30px;
+	font-size: 24px;
+}
+
+.anuncios {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
